@@ -2,5 +2,5 @@
 
 Example of basic ktor server to handle CRUD operations.
 
-See Postaman collection in *documentation* folder.
+See postman collection in *documentation* folder.
 
